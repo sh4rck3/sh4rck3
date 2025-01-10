@@ -7,7 +7,9 @@
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:sh4rck3@gmail.com)
 
 - ⚡ Desenvolvimento: **_PHP, Codeigniter 3 and 4, Laravel, VueJs, Nuxt, Tailwind, PHPUnit, Pest, JavaScript, NodeJS, SQL, MySQL, Gestão de Projetos, Git, GitHub Actions and Scrum Agile_**
-- 📚 **_Foco no crescimento da carreira profissional estutando para aprofundar os conhecimentos em Full-Stack PHP._**
+- ⚡ Diversos: **_VM Ware, Proxmox, XenServer, PfSense, NAS, Linux, CompTIA, LPI, Segurança Linux, Firewall Iptables_**
+- ⚡ Distros: **_Red Hat, Fedora, CentOs, PfSense, FreeNas, Ubunto, Ubunto Server, Debian, Linux Mint, Slackware_**
+- 📚 **_Foco no crescimento da carreira profissional estutando para aprofundar os conhecimentos em Full-Stack PHP, com um longo conhecimento em infraestrutura, o que faz a diferença._**
 
 ### Main Skills:
 
@@ -25,7 +27,20 @@
 <code><img title="PHPUnit" width="26px" src="https://cdn.worldvectorlogo.com/logos/phpunit.svg"/></code>
 <code><img title="Vue" width="26px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"/></code>
 <code><img title="Tailwind" width="26px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"/></code>
-<code><img title="Nuxt" width="26px" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg"/></code><br>
+<code><img title="Nuxt" width="26px" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg"/></code>
+<code><img title="VS Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"/></code>
+<code><img title="Wordpress" width="26px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg"/></code><br>
+<code><img title="Nginx" width="26px" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg"/></code>
+<code><img title="Proxmox" width="26px" src="https://cdn.worldvectorlogo.com/logos/proxmox.svg"/></code>
+<code><img title="Apache" width="26px" src="https://cdn.worldvectorlogo.com/logos/apache-13.svg"/></code>
+<code><img title="PostgresSQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/></code>
+<code><img title="Linux" width="26px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"/></code>
+<code><img title="Ubunto" width="26px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"/></code>
+<code><img title="Red Hat" width="26px" src="https://cdn.worldvectorlogo.com/logos/red-hat.svg"/></code>
+<code><img title="Debian" width="26px" src="https://cdn.worldvectorlogo.com/logos/debian-2.svg"/></code>
+<code><img title="Cent OS" width="26px" src="https://cdn.worldvectorlogo.com/logos/centos-1.svg"/></code>
+<code><img title="Fedora" width="26px" src="https://cdn.worldvectorlogo.com/logos/fedora-1.svg"/></code>
+<code><img title="Ubunto" width="26px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"/></code><br>
 
 ### Lidos em 2024
 - 📚 SCRUM A arte de fazer o dobro do trabalho na metade do tempo - Jeff Sutherland e J.J. Sutherland

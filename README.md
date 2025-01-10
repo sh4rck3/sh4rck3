@@ -3,7 +3,7 @@
 
 ### ~ if you dont't ask, the answer is always no. 🐭
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/luccas-woiciechoski-71789931/)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/luccas-woiciechoski-71789931)
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:sh4rck3@gmail.com)
 
 - ⚡ Desenvolvimento: **_PHP, Codeigniter 3 and 4, Laravel, VueJs, Nuxt, Tailwind, PHPUnit, Pest, JavaScript, NodeJS, SQL, MySQL, Gestão de Projetos, Git, GitHub Actions and Scrum Agile_**
@@ -34,3 +34,9 @@
 - 📚 Código Limpo - Robert C. Martin
 
 <img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
+
+<div>
+<a href="https://github.com/luccas-woiciechoski-71789931">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>

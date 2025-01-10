@@ -36,7 +36,7 @@
 <img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
 
 <div>
-<a href="https://github.com/luccas-woiciechoski-71789931">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/sh4rck3">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rck3&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sh4rck3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>

@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/luccas-woiciechoski-71789931/)
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:sh4rck3@gmail.com)
 
-- ⚡ Desenvolvimento: **_PHP, Codeigniter 3 and 4, Laravel, PHPUnit, Pest, JavaScript, NodeJS, SQL, MySQL, Gestão de Projetos, Git, GitHub Actions and Scrum Agile_**
+- ⚡ Desenvolvimento: **_PHP, Codeigniter 3 and 4, Laravel, VueJs, Nuxt, PHPUnit, Pest, JavaScript, NodeJS, SQL, MySQL, Gestão de Projetos, Git, GitHub Actions and Scrum Agile_**
 - 📚 **_Foco no crescimento da carreira profissional estutando para aprofundar os conhecimentos em Full-Stack PHP._**
 
 ### Main Skills:
@@ -23,6 +23,8 @@
 <code><img title="SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/></code>
 <code><img title="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/></code>
 <code><img title="PHPUnit" width="26px" src="https://cdn.worldvectorlogo.com/logos/phpunit.svg"/></code><br>
+<code><img title="Vue" width="26px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"/></code><br>
+<code><img title="Nuxt" width="26px" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg"/></code><br>
 
 ### Lidos em 2024
 - 📚 SCRUM A arte de fazer o dobro do trabalho na metade do tempo - Jeff Sutherland e J.J. Sutherland

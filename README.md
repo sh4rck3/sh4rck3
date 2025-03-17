@@ -5,7 +5,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/luccas-woiciechoski-71789931)
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:sh4rck3@gmail.com)
-[![Package badge](https://img.shields.io/badge/Pacote-Laravel)](https://github.com/sh4rck3/laravel_combo_stack)
+[(https://img.shields.io/badge/Pacote-Laravel)](https://github.com/sh4rck3/laravel_combo_stack)
 
 - ⚡ Desenvolvimento: **_PHP, Codeigniter 3 and 4, Laravel, VueJs, Nuxt, Tailwind, PHPUnit, Pest, JavaScript, NodeJS, SQL, MySQL, Gestão de Projetos, Git, GitHub Actions and Scrum Agile_**
 - ⚡ Diversos: **_VM Ware, Proxmox, XenServer, PfSense, NAS, Linux, CompTIA, LPI, Segurança Linux, Firewall Iptables_**

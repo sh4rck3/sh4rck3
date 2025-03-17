@@ -1,7 +1,7 @@
 # Luccas Woiciechoski
 💻 Gerente de TI / Administrador de Redes / Desenvolvedor de Software e Full-Stack PHP.
 
-### ~ if you dont't ask, the answer is always no. 🐭
+### ~ if you dont't ask, the answer is always no. ~🐭
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/luccas-woiciechoski-71789931)
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:sh4rck3@gmail.com)
